@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FefeTV</string>
+    <string name="guard_label">FefeTV tasto Home</string>
+    <string name="guard_description">Manda il tasto HOME alla schermata FefeTV invece che a quella di Amazon. Non legge il contenuto dello schermo e non ha accesso a internet.</string>
+</resources>
